@@ -1,20 +1,6 @@
-<<<<<<< HEAD
 # 🎬 Advanced Movie Dataset Analysis - TMDB 9000+ Movies
 
 **Moving beyond beginner-level EDA to advanced analytics, machine learning, and business intelligence.**
-=======
-# **9000 movies from TMDB API**
-| Contents 											 	   	|
-| -------- 											 	   	|
-| [Dataset Description](#Dataset-Description)			   	|
-| [Columns Descreption](#Columns-Descreption) 		   		|
-| [EDA Questions](#eda-questions)							|
-| [Data Wrangling](#Data-Wrangling)					   		|
-| [Data Cleaning](#Data-Cleaning)						   	|
-| [Data Visualization](#Data-Visualization)					|
-| [Conclusion](#Conclusion)									|
-| [Built with](#Built-with)							   		|
->>>>>>> eaff8ec3e58e7367ad26595292a0517eb0137f00
 
 | Quick Links |
 | --- |
